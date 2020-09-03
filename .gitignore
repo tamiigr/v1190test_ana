@@ -1,0 +1,11 @@
+*.pdf
+*~
+*.o
+data
+B0031
+N419
+libanacores.so*
+run.sh
+offline
+._*
+.*.pdf
